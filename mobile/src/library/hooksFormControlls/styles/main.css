@@ -1,0 +1,9 @@
+.label
+{
+    color: var(--ion-color-primary);
+}
+
+.label-floating.sc-ion-label-md-h
+{
+    color: var(--ion-color-primary);
+}

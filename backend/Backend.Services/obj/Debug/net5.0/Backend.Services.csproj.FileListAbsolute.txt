@@ -1,0 +1,105 @@
+e:\Desktop\01 - movies\backend\Backend.Services\bin\Debug\net5.0\Backend.Services.deps.json
+e:\Desktop\01 - movies\backend\Backend.Services\bin\Debug\net5.0\Backend.Services.dll
+e:\Desktop\01 - movies\backend\Backend.Services\bin\Debug\net5.0\ref\Backend.Services.dll
+e:\Desktop\01 - movies\backend\Backend.Services\bin\Debug\net5.0\Backend.Services.pdb
+e:\Desktop\01 - movies\backend\Backend.Services\bin\Debug\net5.0\Backend.Core.dll
+e:\Desktop\01 - movies\backend\Backend.Services\bin\Debug\net5.0\Backend.Core.pdb
+e:\Desktop\01 - movies\backend\Backend.Services\obj\Debug\net5.0\Backend.Services.csproj.AssemblyReference.cache
+e:\Desktop\01 - movies\backend\Backend.Services\obj\Debug\net5.0\Backend.Services.GeneratedMSBuildEditorConfig.editorconfig
+e:\Desktop\01 - movies\backend\Backend.Services\obj\Debug\net5.0\Backend.Services.AssemblyInfoInputs.cache
+e:\Desktop\01 - movies\backend\Backend.Services\obj\Debug\net5.0\Backend.Services.AssemblyInfo.cs
+e:\Desktop\01 - movies\backend\Backend.Services\obj\Debug\net5.0\Backend.Services.csproj.CoreCompileInputs.cache
+e:\Desktop\01 - movies\backend\Backend.Services\obj\Debug\net5.0\Backend.Services.csproj.CopyComplete
+e:\Desktop\01 - movies\backend\Backend.Services\obj\Debug\net5.0\Backend.Services.dll
+e:\Desktop\01 - movies\backend\Backend.Services\obj\Debug\net5.0\ref\Backend.Services.dll
+e:\Desktop\01 - movies\backend\Backend.Services\obj\Debug\net5.0\Backend.Services.pdb
+e:\Desktop\09 -  amazons of volleyball\backend\Backend.Services\bin\Debug\net5.0\Backend.Services.deps.json
+e:\Desktop\09 -  amazons of volleyball\backend\Backend.Services\bin\Debug\net5.0\Backend.Services.dll
+e:\Desktop\09 -  amazons of volleyball\backend\Backend.Services\bin\Debug\net5.0\ref\Backend.Services.dll
+e:\Desktop\09 -  amazons of volleyball\backend\Backend.Services\bin\Debug\net5.0\Backend.Services.pdb
+e:\Desktop\09 -  amazons of volleyball\backend\Backend.Services\bin\Debug\net5.0\Backend.Core.dll
+e:\Desktop\09 -  amazons of volleyball\backend\Backend.Services\bin\Debug\net5.0\Backend.Core.pdb
+e:\Desktop\09 -  amazons of volleyball\backend\Backend.Services\obj\Debug\net5.0\Backend.Services.csproj.AssemblyReference.cache
+e:\Desktop\09 -  amazons of volleyball\backend\Backend.Services\obj\Debug\net5.0\Backend.Services.GeneratedMSBuildEditorConfig.editorconfig
+e:\Desktop\09 -  amazons of volleyball\backend\Backend.Services\obj\Debug\net5.0\Backend.Services.AssemblyInfoInputs.cache
+e:\Desktop\09 -  amazons of volleyball\backend\Backend.Services\obj\Debug\net5.0\Backend.Services.AssemblyInfo.cs
+e:\Desktop\09 -  amazons of volleyball\backend\Backend.Services\obj\Debug\net5.0\Backend.Services.csproj.CoreCompileInputs.cache
+e:\Desktop\09 -  amazons of volleyball\backend\Backend.Services\obj\Debug\net5.0\Backend.Services.csproj.CopyComplete
+e:\Desktop\09 -  amazons of volleyball\backend\Backend.Services\obj\Debug\net5.0\Backend.Services.dll
+e:\Desktop\09 -  amazons of volleyball\backend\Backend.Services\obj\Debug\net5.0\ref\Backend.Services.dll
+e:\Desktop\09 -  amazons of volleyball\backend\Backend.Services\obj\Debug\net5.0\Backend.Services.pdb
+g:\_Tananyag\Ionic\03 - With fetch\09 - Amazons of volleyball\backend\Backend.Services\bin\Debug\net5.0\Backend.Services.deps.json
+g:\_Tananyag\Ionic\03 - With fetch\09 - Amazons of volleyball\backend\Backend.Services\bin\Debug\net5.0\Backend.Services.dll
+g:\_Tananyag\Ionic\03 - With fetch\09 - Amazons of volleyball\backend\Backend.Services\bin\Debug\net5.0\ref\Backend.Services.dll
+g:\_Tananyag\Ionic\03 - With fetch\09 - Amazons of volleyball\backend\Backend.Services\bin\Debug\net5.0\Backend.Services.pdb
+g:\_Tananyag\Ionic\03 - With fetch\09 - Amazons of volleyball\backend\Backend.Services\bin\Debug\net5.0\Backend.Core.dll
+g:\_Tananyag\Ionic\03 - With fetch\09 - Amazons of volleyball\backend\Backend.Services\bin\Debug\net5.0\Backend.Core.pdb
+g:\_Tananyag\Ionic\03 - With fetch\09 - Amazons of volleyball\backend\Backend.Services\obj\Debug\net5.0\Backend.Services.csproj.AssemblyReference.cache
+g:\_Tananyag\Ionic\03 - With fetch\09 - Amazons of volleyball\backend\Backend.Services\obj\Debug\net5.0\Backend.Services.GeneratedMSBuildEditorConfig.editorconfig
+g:\_Tananyag\Ionic\03 - With fetch\09 - Amazons of volleyball\backend\Backend.Services\obj\Debug\net5.0\Backend.Services.AssemblyInfoInputs.cache
+g:\_Tananyag\Ionic\03 - With fetch\09 - Amazons of volleyball\backend\Backend.Services\obj\Debug\net5.0\Backend.Services.AssemblyInfo.cs
+g:\_Tananyag\Ionic\03 - With fetch\09 - Amazons of volleyball\backend\Backend.Services\obj\Debug\net5.0\Backend.Services.csproj.CoreCompileInputs.cache
+g:\_Tananyag\Ionic\03 - With fetch\09 - Amazons of volleyball\backend\Backend.Services\obj\Debug\net5.0\Backend.Services.csproj.CopyComplete
+g:\_Tananyag\Ionic\03 - With fetch\09 - Amazons of volleyball\backend\Backend.Services\obj\Debug\net5.0\Backend.Services.dll
+g:\_Tananyag\Ionic\03 - With fetch\09 - Amazons of volleyball\backend\Backend.Services\obj\Debug\net5.0\ref\Backend.Services.dll
+g:\_Tananyag\Ionic\03 - With fetch\09 - Amazons of volleyball\backend\Backend.Services\obj\Debug\net5.0\Backend.Services.pdb
+C:\Users\vastag.atila\Desktop\11 - Balaton atevezes\backend\Backend.Services\bin\Debug\net5.0\Backend.Services.deps.json
+C:\Users\vastag.atila\Desktop\11 - Balaton atevezes\backend\Backend.Services\bin\Debug\net5.0\Backend.Services.dll
+C:\Users\vastag.atila\Desktop\11 - Balaton atevezes\backend\Backend.Services\bin\Debug\net5.0\ref\Backend.Services.dll
+C:\Users\vastag.atila\Desktop\11 - Balaton atevezes\backend\Backend.Services\bin\Debug\net5.0\Backend.Services.pdb
+C:\Users\vastag.atila\Desktop\11 - Balaton atevezes\backend\Backend.Services\bin\Debug\net5.0\Backend.Core.dll
+C:\Users\vastag.atila\Desktop\11 - Balaton atevezes\backend\Backend.Services\bin\Debug\net5.0\Backend.Core.pdb
+C:\Users\vastag.atila\Desktop\11 - Balaton atevezes\backend\Backend.Services\obj\Debug\net5.0\Backend.Services.csproj.AssemblyReference.cache
+C:\Users\vastag.atila\Desktop\11 - Balaton atevezes\backend\Backend.Services\obj\Debug\net5.0\Backend.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vastag.atila\Desktop\11 - Balaton atevezes\backend\Backend.Services\obj\Debug\net5.0\Backend.Services.AssemblyInfoInputs.cache
+C:\Users\vastag.atila\Desktop\11 - Balaton atevezes\backend\Backend.Services\obj\Debug\net5.0\Backend.Services.AssemblyInfo.cs
+C:\Users\vastag.atila\Desktop\11 - Balaton atevezes\backend\Backend.Services\obj\Debug\net5.0\Backend.Services.csproj.CoreCompileInputs.cache
+C:\Users\vastag.atila\Desktop\11 - Balaton atevezes\backend\Backend.Services\obj\Debug\net5.0\Backend.Services.csproj.CopyComplete
+C:\Users\vastag.atila\Desktop\11 - Balaton atevezes\backend\Backend.Services\obj\Debug\net5.0\Backend.Services.dll
+C:\Users\vastag.atila\Desktop\11 - Balaton atevezes\backend\Backend.Services\obj\Debug\net5.0\ref\Backend.Services.dll
+C:\Users\vastag.atila\Desktop\11 - Balaton atevezes\backend\Backend.Services\obj\Debug\net5.0\Backend.Services.pdb
+D:\Desktop\11 - Balaton atevezes\backend\Backend.Services\bin\Debug\net5.0\Backend.Services.deps.json
+D:\Desktop\11 - Balaton atevezes\backend\Backend.Services\bin\Debug\net5.0\Backend.Services.dll
+D:\Desktop\11 - Balaton atevezes\backend\Backend.Services\bin\Debug\net5.0\ref\Backend.Services.dll
+D:\Desktop\11 - Balaton atevezes\backend\Backend.Services\bin\Debug\net5.0\Backend.Services.pdb
+D:\Desktop\11 - Balaton atevezes\backend\Backend.Services\bin\Debug\net5.0\Backend.Core.dll
+D:\Desktop\11 - Balaton atevezes\backend\Backend.Services\bin\Debug\net5.0\Backend.Core.pdb
+D:\Desktop\11 - Balaton atevezes\backend\Backend.Services\obj\Debug\net5.0\Backend.Services.csproj.AssemblyReference.cache
+D:\Desktop\11 - Balaton atevezes\backend\Backend.Services\obj\Debug\net5.0\Backend.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\11 - Balaton atevezes\backend\Backend.Services\obj\Debug\net5.0\Backend.Services.AssemblyInfoInputs.cache
+D:\Desktop\11 - Balaton atevezes\backend\Backend.Services\obj\Debug\net5.0\Backend.Services.AssemblyInfo.cs
+D:\Desktop\11 - Balaton atevezes\backend\Backend.Services\obj\Debug\net5.0\Backend.Services.csproj.CoreCompileInputs.cache
+D:\Desktop\11 - Balaton atevezes\backend\Backend.Services\obj\Debug\net5.0\Backend.Services.csproj.CopyComplete
+D:\Desktop\11 - Balaton atevezes\backend\Backend.Services\obj\Debug\net5.0\Backend.Services.dll
+D:\Desktop\11 - Balaton atevezes\backend\Backend.Services\obj\Debug\net5.0\ref\Backend.Services.dll
+D:\Desktop\11 - Balaton atevezes\backend\Backend.Services\obj\Debug\net5.0\Backend.Services.pdb
+H:\Vastag Atila\esti\project - 9\backend\Backend.Services\bin\Debug\net5.0\Backend.Services.deps.json
+H:\Vastag Atila\esti\project - 9\backend\Backend.Services\bin\Debug\net5.0\Backend.Services.dll
+H:\Vastag Atila\esti\project - 9\backend\Backend.Services\bin\Debug\net5.0\ref\Backend.Services.dll
+H:\Vastag Atila\esti\project - 9\backend\Backend.Services\bin\Debug\net5.0\Backend.Services.pdb
+H:\Vastag Atila\esti\project - 9\backend\Backend.Services\bin\Debug\net5.0\Backend.Core.dll
+H:\Vastag Atila\esti\project - 9\backend\Backend.Services\bin\Debug\net5.0\Backend.Core.pdb
+H:\Vastag Atila\esti\project - 9\backend\Backend.Services\obj\Debug\net5.0\Backend.Services.csprojAssemblyReference.cache
+H:\Vastag Atila\esti\project - 9\backend\Backend.Services\obj\Debug\net5.0\Backend.Services.GeneratedMSBuildEditorConfig.editorconfig
+H:\Vastag Atila\esti\project - 9\backend\Backend.Services\obj\Debug\net5.0\Backend.Services.AssemblyInfoInputs.cache
+H:\Vastag Atila\esti\project - 9\backend\Backend.Services\obj\Debug\net5.0\Backend.Services.AssemblyInfo.cs
+H:\Vastag Atila\esti\project - 9\backend\Backend.Services\obj\Debug\net5.0\Backend.Services.csproj.CoreCompileInputs.cache
+H:\Vastag Atila\esti\project - 9\backend\Backend.Services\obj\Debug\net5.0\Backend.Services.csproj.CopyComplete
+H:\Vastag Atila\esti\project - 9\backend\Backend.Services\obj\Debug\net5.0\Backend.Services.dll
+H:\Vastag Atila\esti\project - 9\backend\Backend.Services\obj\Debug\net5.0\ref\Backend.Services.dll
+H:\Vastag Atila\esti\project - 9\backend\Backend.Services\obj\Debug\net5.0\Backend.Services.pdb
+C:\Users\sze0balnor\Desktop\mobile\project  - 9\backend\Backend.Services\bin\Debug\net5.0\Backend.Services.deps.json
+C:\Users\sze0balnor\Desktop\mobile\project  - 9\backend\Backend.Services\bin\Debug\net5.0\Backend.Services.dll
+C:\Users\sze0balnor\Desktop\mobile\project  - 9\backend\Backend.Services\bin\Debug\net5.0\ref\Backend.Services.dll
+C:\Users\sze0balnor\Desktop\mobile\project  - 9\backend\Backend.Services\bin\Debug\net5.0\Backend.Services.pdb
+C:\Users\sze0balnor\Desktop\mobile\project  - 9\backend\Backend.Services\bin\Debug\net5.0\Backend.Core.dll
+C:\Users\sze0balnor\Desktop\mobile\project  - 9\backend\Backend.Services\bin\Debug\net5.0\Backend.Core.pdb
+C:\Users\sze0balnor\Desktop\mobile\project  - 9\backend\Backend.Services\obj\Debug\net5.0\Backend.Services.csprojAssemblyReference.cache
+C:\Users\sze0balnor\Desktop\mobile\project  - 9\backend\Backend.Services\obj\Debug\net5.0\Backend.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sze0balnor\Desktop\mobile\project  - 9\backend\Backend.Services\obj\Debug\net5.0\Backend.Services.AssemblyInfoInputs.cache
+C:\Users\sze0balnor\Desktop\mobile\project  - 9\backend\Backend.Services\obj\Debug\net5.0\Backend.Services.AssemblyInfo.cs
+C:\Users\sze0balnor\Desktop\mobile\project  - 9\backend\Backend.Services\obj\Debug\net5.0\Backend.Services.csproj.CoreCompileInputs.cache
+C:\Users\sze0balnor\Desktop\mobile\project  - 9\backend\Backend.Services\obj\Debug\net5.0\Backend.Services.csproj.CopyComplete
+C:\Users\sze0balnor\Desktop\mobile\project  - 9\backend\Backend.Services\obj\Debug\net5.0\Backend.Services.dll
+C:\Users\sze0balnor\Desktop\mobile\project  - 9\backend\Backend.Services\obj\Debug\net5.0\ref\Backend.Services.dll
+C:\Users\sze0balnor\Desktop\mobile\project  - 9\backend\Backend.Services\obj\Debug\net5.0\Backend.Services.pdb

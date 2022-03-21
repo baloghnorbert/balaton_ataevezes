@@ -1,0 +1,266 @@
+d:\Projects\WebSocket REST\Backend.Validation\bin\Debug\net5.0\Backend.Validation.deps.json
+d:\Projects\WebSocket REST\Backend.Validation\bin\Debug\net5.0\Backend.Validation.dll
+d:\Projects\WebSocket REST\Backend.Validation\bin\Debug\net5.0\ref\Backend.Validation.dll
+d:\Projects\WebSocket REST\Backend.Validation\bin\Debug\net5.0\Backend.Validation.pdb
+d:\Projects\WebSocket REST\Backend.Validation\obj\Debug\net5.0\Backend.Validation.GeneratedMSBuildEditorConfig.editorconfig
+d:\Projects\WebSocket REST\Backend.Validation\obj\Debug\net5.0\Backend.Validation.AssemblyInfoInputs.cache
+d:\Projects\WebSocket REST\Backend.Validation\obj\Debug\net5.0\Backend.Validation.AssemblyInfo.cs
+d:\Projects\WebSocket REST\Backend.Validation\obj\Debug\net5.0\Backend.Validation.csproj.CoreCompileInputs.cache
+d:\Projects\WebSocket REST\Backend.Validation\obj\Debug\net5.0\Backend.Validation.dll
+d:\Projects\WebSocket REST\Backend.Validation\obj\Debug\net5.0\ref\Backend.Validation.dll
+d:\Projects\WebSocket REST\Backend.Validation\obj\Debug\net5.0\Backend.Validation.pdb
+e:\Temp\backend\Backend.Validation\bin\Debug\net5.0\Backend.Validation.deps.json
+e:\Temp\backend\Backend.Validation\bin\Debug\net5.0\Backend.Validation.dll
+e:\Temp\backend\Backend.Validation\bin\Debug\net5.0\ref\Backend.Validation.dll
+e:\Temp\backend\Backend.Validation\bin\Debug\net5.0\Backend.Validation.pdb
+e:\Temp\backend\Backend.Validation\bin\Debug\net5.0\Backend.Core.dll
+e:\Temp\backend\Backend.Validation\bin\Debug\net5.0\Backend.Core.pdb
+e:\Temp\backend\Backend.Validation\obj\Debug\net5.0\Backend.Validation.csproj.AssemblyReference.cache
+e:\Temp\backend\Backend.Validation\obj\Debug\net5.0\Backend.Validation.GeneratedMSBuildEditorConfig.editorconfig
+e:\Temp\backend\Backend.Validation\obj\Debug\net5.0\Backend.Validation.AssemblyInfoInputs.cache
+e:\Temp\backend\Backend.Validation\obj\Debug\net5.0\Backend.Validation.AssemblyInfo.cs
+e:\Temp\backend\Backend.Validation\obj\Debug\net5.0\Backend.Validation.csproj.CoreCompileInputs.cache
+e:\Temp\backend\Backend.Validation\obj\Debug\net5.0\Backend.Validation.csproj.CopyComplete
+e:\Temp\backend\Backend.Validation\obj\Debug\net5.0\Backend.Validation.dll
+e:\Temp\backend\Backend.Validation\obj\Debug\net5.0\ref\Backend.Validation.dll
+e:\Temp\backend\Backend.Validation\obj\Debug\net5.0\Backend.Validation.pdb
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.Validation\bin\Debug\net5.0\Backend.Validation.deps.json
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.Validation\bin\Debug\net5.0\Backend.Validation.dll
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.Validation\bin\Debug\net5.0\ref\Backend.Validation.dll
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.Validation\bin\Debug\net5.0\Backend.Validation.pdb
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.Validation\bin\Debug\net5.0\Backend.Core.dll
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.Validation\bin\Debug\net5.0\Backend.Core.pdb
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.Validation\obj\Debug\net5.0\Backend.Validation.csproj.AssemblyReference.cache
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.Validation\obj\Debug\net5.0\Backend.Validation.GeneratedMSBuildEditorConfig.editorconfig
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.Validation\obj\Debug\net5.0\Backend.Validation.AssemblyInfoInputs.cache
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.Validation\obj\Debug\net5.0\Backend.Validation.AssemblyInfo.cs
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.Validation\obj\Debug\net5.0\Backend.Validation.csproj.CoreCompileInputs.cache
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.Validation\obj\Debug\net5.0\Backend.Validation.csproj.CopyComplete
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.Validation\obj\Debug\net5.0\Backend.Validation.dll
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.Validation\obj\Debug\net5.0\ref\Backend.Validation.dll
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.Validation\obj\Debug\net5.0\Backend.Validation.pdb
+E:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.Validation\bin\Debug\net5.0\Backend.Validation.deps.json
+E:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.Validation\bin\Debug\net5.0\Backend.Validation.dll
+E:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.Validation\bin\Debug\net5.0\ref\Backend.Validation.dll
+E:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.Validation\bin\Debug\net5.0\Backend.Validation.pdb
+E:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.Validation\bin\Debug\net5.0\Backend.Core.dll
+E:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.Validation\bin\Debug\net5.0\Backend.Core.pdb
+E:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.Validation\obj\Debug\net5.0\Backend.Validation.csprojAssemblyReference.cache
+E:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.Validation\obj\Debug\net5.0\Backend.Validation.GeneratedMSBuildEditorConfig.editorconfig
+E:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.Validation\obj\Debug\net5.0\Backend.Validation.AssemblyInfoInputs.cache
+E:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.Validation\obj\Debug\net5.0\Backend.Validation.AssemblyInfo.cs
+E:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.Validation\obj\Debug\net5.0\Backend.Validation.csproj.CoreCompileInputs.cache
+E:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.Validation\obj\Debug\net5.0\Backend.Validation.csproj.CopyComplete
+E:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.Validation\obj\Debug\net5.0\Backend.Validation.dll
+E:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.Validation\obj\Debug\net5.0\ref\Backend.Validation.dll
+E:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.Validation\obj\Debug\net5.0\Backend.Validation.pdb
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.Validation\bin\Debug\net5.0\Backend.Validation.deps.json
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.Validation\bin\Debug\net5.0\Backend.Validation.dll
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.Validation\bin\Debug\net5.0\ref\Backend.Validation.dll
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.Validation\bin\Debug\net5.0\Backend.Validation.pdb
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.Validation\bin\Debug\net5.0\Backend.Core.dll
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.Validation\bin\Debug\net5.0\Backend.Core.pdb
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.Validation\obj\Debug\net5.0\Backend.Validation.csprojAssemblyReference.cache
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.Validation\obj\Debug\net5.0\Backend.Validation.GeneratedMSBuildEditorConfig.editorconfig
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.Validation\obj\Debug\net5.0\Backend.Validation.AssemblyInfoInputs.cache
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.Validation\obj\Debug\net5.0\Backend.Validation.AssemblyInfo.cs
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.Validation\obj\Debug\net5.0\Backend.Validation.csproj.CoreCompileInputs.cache
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.Validation\obj\Debug\net5.0\Backend.Validation.csproj.CopyComplete
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.Validation\obj\Debug\net5.0\Backend.Validation.dll
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.Validation\obj\Debug\net5.0\ref\Backend.Validation.dll
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.Validation\obj\Debug\net5.0\Backend.Validation.pdb
+D:\Desktop\backend with no DB\Backend.Validation\obj\Debug\net5.0\Backend.Validation.csproj.AssemblyReference.cache
+D:\Desktop\backend with no DB\Backend.Validation\obj\Debug\net5.0\Backend.Validation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\backend with no DB\Backend.Validation\obj\Debug\net5.0\Backend.Validation.AssemblyInfoInputs.cache
+D:\Desktop\backend with no DB\Backend.Validation\obj\Debug\net5.0\Backend.Validation.AssemblyInfo.cs
+D:\Desktop\backend with no DB\Backend.Validation\obj\Debug\net5.0\Backend.Validation.csproj.CoreCompileInputs.cache
+D:\Desktop\backend with no DB\Backend.Validation\obj\Debug\net5.0\Backend.Validation.dll
+D:\Desktop\backend with no DB\Backend.Validation\obj\Debug\net5.0\ref\Backend.Validation.dll
+D:\Desktop\backend with no DB\Backend.Validation\obj\Debug\net5.0\Backend.Validation.pdb
+D:\Desktop\backend with no DB\Backend.Validation\bin\Debug\net5.0\Backend.Validation.deps.json
+D:\Desktop\backend with no DB\Backend.Validation\bin\Debug\net5.0\Backend.Validation.dll
+D:\Desktop\backend with no DB\Backend.Validation\bin\Debug\net5.0\ref\Backend.Validation.dll
+D:\Desktop\backend with no DB\Backend.Validation\bin\Debug\net5.0\Backend.Validation.pdb
+D:\Desktop\backend with no DB\Backend.Validation\bin\Debug\net5.0\Backend.Core.dll
+D:\Desktop\backend with no DB\Backend.Validation\bin\Debug\net5.0\Backend.Core.pdb
+D:\Desktop\backend with no DB\Backend.Validation\obj\Debug\net5.0\Backend.Validation.csproj.CopyComplete
+e:\_Tananyag\Ionic\03 - With fetch\05 - Beers\backend with no DB\Backend.Validation\obj\Debug\net5.0\Backend.Validation.csproj.AssemblyReference.cache
+e:\_Tananyag\Ionic\03 - With fetch\05 - Beers\backend with no DB\Backend.Validation\obj\Debug\net5.0\Backend.Validation.GeneratedMSBuildEditorConfig.editorconfig
+e:\_Tananyag\Ionic\03 - With fetch\05 - Beers\backend with no DB\Backend.Validation\obj\Debug\net5.0\Backend.Validation.AssemblyInfoInputs.cache
+e:\_Tananyag\Ionic\03 - With fetch\05 - Beers\backend with no DB\Backend.Validation\obj\Debug\net5.0\Backend.Validation.AssemblyInfo.cs
+e:\_Tananyag\Ionic\03 - With fetch\05 - Beers\backend with no DB\Backend.Validation\obj\Debug\net5.0\Backend.Validation.csproj.CoreCompileInputs.cache
+e:\_Tananyag\Ionic\03 - With fetch\05 - Beers\backend with no DB\Backend.Validation\obj\Debug\net5.0\Backend.Validation.dll
+e:\_Tananyag\Ionic\03 - With fetch\05 - Beers\backend with no DB\Backend.Validation\obj\Debug\net5.0\ref\Backend.Validation.dll
+e:\_Tananyag\Ionic\03 - With fetch\05 - Beers\backend with no DB\Backend.Validation\obj\Debug\net5.0\Backend.Validation.pdb
+e:\_Tananyag\Ionic\03 - With fetch\05 - Beers\backend with no DB\Backend.Validation\bin\Debug\net5.0\Backend.Validation.deps.json
+e:\_Tananyag\Ionic\03 - With fetch\05 - Beers\backend with no DB\Backend.Validation\bin\Debug\net5.0\Backend.Validation.dll
+e:\_Tananyag\Ionic\03 - With fetch\05 - Beers\backend with no DB\Backend.Validation\bin\Debug\net5.0\ref\Backend.Validation.dll
+e:\_Tananyag\Ionic\03 - With fetch\05 - Beers\backend with no DB\Backend.Validation\bin\Debug\net5.0\Backend.Validation.pdb
+e:\_Tananyag\Ionic\03 - With fetch\05 - Beers\backend with no DB\Backend.Validation\bin\Debug\net5.0\Backend.Core.dll
+e:\_Tananyag\Ionic\03 - With fetch\05 - Beers\backend with no DB\Backend.Validation\bin\Debug\net5.0\Backend.Core.pdb
+e:\_Tananyag\Ionic\03 - With fetch\05 - Beers\backend with no DB\Backend.Validation\obj\Debug\net5.0\Backend.Validation.csproj.CopyComplete
+e:\_Tananyag\Ionic\03 - With fetch\06 - MMO Games\backend with no DB\Backend.Validation\obj\Debug\net5.0\Backend.Validation.csproj.AssemblyReference.cache
+e:\_Tananyag\Ionic\03 - With fetch\06 - MMO Games\backend with no DB\Backend.Validation\obj\Debug\net5.0\Backend.Validation.GeneratedMSBuildEditorConfig.editorconfig
+e:\_Tananyag\Ionic\03 - With fetch\06 - MMO Games\backend with no DB\Backend.Validation\obj\Debug\net5.0\Backend.Validation.AssemblyInfoInputs.cache
+e:\_Tananyag\Ionic\03 - With fetch\06 - MMO Games\backend with no DB\Backend.Validation\obj\Debug\net5.0\Backend.Validation.AssemblyInfo.cs
+e:\_Tananyag\Ionic\03 - With fetch\06 - MMO Games\backend with no DB\Backend.Validation\obj\Debug\net5.0\Backend.Validation.csproj.CoreCompileInputs.cache
+e:\_Tananyag\Ionic\03 - With fetch\06 - MMO Games\backend with no DB\Backend.Validation\obj\Debug\net5.0\Backend.Validation.dll
+e:\_Tananyag\Ionic\03 - With fetch\06 - MMO Games\backend with no DB\Backend.Validation\obj\Debug\net5.0\ref\Backend.Validation.dll
+e:\_Tananyag\Ionic\03 - With fetch\06 - MMO Games\backend with no DB\Backend.Validation\obj\Debug\net5.0\Backend.Validation.pdb
+e:\_Tananyag\Ionic\03 - With fetch\06 - MMO Games\backend with no DB\Backend.Validation\bin\Debug\net5.0\Backend.Validation.deps.json
+e:\_Tananyag\Ionic\03 - With fetch\06 - MMO Games\backend with no DB\Backend.Validation\bin\Debug\net5.0\Backend.Validation.dll
+e:\_Tananyag\Ionic\03 - With fetch\06 - MMO Games\backend with no DB\Backend.Validation\bin\Debug\net5.0\ref\Backend.Validation.dll
+e:\_Tananyag\Ionic\03 - With fetch\06 - MMO Games\backend with no DB\Backend.Validation\bin\Debug\net5.0\Backend.Validation.pdb
+e:\_Tananyag\Ionic\03 - With fetch\06 - MMO Games\backend with no DB\Backend.Validation\bin\Debug\net5.0\Backend.Core.dll
+e:\_Tananyag\Ionic\03 - With fetch\06 - MMO Games\backend with no DB\Backend.Validation\bin\Debug\net5.0\Backend.Core.pdb
+e:\_Tananyag\Ionic\03 - With fetch\06 - MMO Games\backend with no DB\Backend.Validation\obj\Debug\net5.0\Backend.Validation.csproj.CopyComplete
+F:\_Tananyag\Ionic\03 - With fetch\07 - Random user\backend with no DB\Backend.Validation\obj\Debug\net5.0\Backend.Validation.csprojAssemblyReference.cache
+F:\_Tananyag\Ionic\03 - With fetch\07 - Random user\backend with no DB\Backend.Validation\obj\Debug\net5.0\Backend.Validation.GeneratedMSBuildEditorConfig.editorconfig
+F:\_Tananyag\Ionic\03 - With fetch\07 - Random user\backend with no DB\Backend.Validation\obj\Debug\net5.0\Backend.Validation.AssemblyInfoInputs.cache
+F:\_Tananyag\Ionic\03 - With fetch\07 - Random user\backend with no DB\Backend.Validation\obj\Debug\net5.0\Backend.Validation.AssemblyInfo.cs
+F:\_Tananyag\Ionic\03 - With fetch\07 - Random user\backend with no DB\Backend.Validation\obj\Debug\net5.0\Backend.Validation.csproj.CoreCompileInputs.cache
+F:\_Tananyag\Ionic\03 - With fetch\07 - Random user\backend with no DB\Backend.Validation\obj\Debug\net5.0\Backend.Validation.dll
+F:\_Tananyag\Ionic\03 - With fetch\07 - Random user\backend with no DB\Backend.Validation\obj\Debug\net5.0\ref\Backend.Validation.dll
+F:\_Tananyag\Ionic\03 - With fetch\07 - Random user\backend with no DB\Backend.Validation\obj\Debug\net5.0\Backend.Validation.pdb
+F:\_Tananyag\Ionic\03 - With fetch\07 - Random user\backend with no DB\Backend.Validation\bin\Debug\net5.0\Backend.Validation.deps.json
+F:\_Tananyag\Ionic\03 - With fetch\07 - Random user\backend with no DB\Backend.Validation\bin\Debug\net5.0\Backend.Validation.dll
+F:\_Tananyag\Ionic\03 - With fetch\07 - Random user\backend with no DB\Backend.Validation\bin\Debug\net5.0\ref\Backend.Validation.dll
+F:\_Tananyag\Ionic\03 - With fetch\07 - Random user\backend with no DB\Backend.Validation\bin\Debug\net5.0\Backend.Validation.pdb
+F:\_Tananyag\Ionic\03 - With fetch\07 - Random user\backend with no DB\Backend.Validation\bin\Debug\net5.0\Backend.Core.dll
+F:\_Tananyag\Ionic\03 - With fetch\07 - Random user\backend with no DB\Backend.Validation\bin\Debug\net5.0\Backend.Core.pdb
+F:\_Tananyag\Ionic\03 - With fetch\07 - Random user\backend with no DB\Backend.Validation\obj\Debug\net5.0\Backend.Validation.csproj.CopyComplete
+E:\_Tananyag\Ionic\03 - With fetch\07 - Random user\backend with no DB\Backend.Validation\bin\Debug\net5.0\Backend.Validation.deps.json
+E:\_Tananyag\Ionic\03 - With fetch\07 - Random user\backend with no DB\Backend.Validation\bin\Debug\net5.0\Backend.Validation.dll
+E:\_Tananyag\Ionic\03 - With fetch\07 - Random user\backend with no DB\Backend.Validation\bin\Debug\net5.0\ref\Backend.Validation.dll
+E:\_Tananyag\Ionic\03 - With fetch\07 - Random user\backend with no DB\Backend.Validation\bin\Debug\net5.0\Backend.Validation.pdb
+E:\_Tananyag\Ionic\03 - With fetch\07 - Random user\backend with no DB\Backend.Validation\bin\Debug\net5.0\Backend.Core.dll
+E:\_Tananyag\Ionic\03 - With fetch\07 - Random user\backend with no DB\Backend.Validation\bin\Debug\net5.0\Backend.Core.pdb
+E:\_Tananyag\Ionic\03 - With fetch\07 - Random user\backend with no DB\Backend.Validation\obj\Debug\net5.0\Backend.Validation.csproj.AssemblyReference.cache
+E:\_Tananyag\Ionic\03 - With fetch\07 - Random user\backend with no DB\Backend.Validation\obj\Debug\net5.0\Backend.Validation.GeneratedMSBuildEditorConfig.editorconfig
+E:\_Tananyag\Ionic\03 - With fetch\07 - Random user\backend with no DB\Backend.Validation\obj\Debug\net5.0\Backend.Validation.AssemblyInfoInputs.cache
+E:\_Tananyag\Ionic\03 - With fetch\07 - Random user\backend with no DB\Backend.Validation\obj\Debug\net5.0\Backend.Validation.AssemblyInfo.cs
+E:\_Tananyag\Ionic\03 - With fetch\07 - Random user\backend with no DB\Backend.Validation\obj\Debug\net5.0\Backend.Validation.csproj.CoreCompileInputs.cache
+E:\_Tananyag\Ionic\03 - With fetch\07 - Random user\backend with no DB\Backend.Validation\obj\Debug\net5.0\Backend.Validation.csproj.CopyComplete
+E:\_Tananyag\Ionic\03 - With fetch\07 - Random user\backend with no DB\Backend.Validation\obj\Debug\net5.0\Backend.Validation.dll
+E:\_Tananyag\Ionic\03 - With fetch\07 - Random user\backend with no DB\Backend.Validation\obj\Debug\net5.0\ref\Backend.Validation.dll
+E:\_Tananyag\Ionic\03 - With fetch\07 - Random user\backend with no DB\Backend.Validation\obj\Debug\net5.0\Backend.Validation.pdb
+u:\_Tananyag\Ionic\03 - With fetch\08 - Yu-Gi-Oh!\backend with no DB\Backend.Validation\obj\Debug\net5.0\Backend.Validation.GeneratedMSBuildEditorConfig.editorconfig
+u:\_Tananyag\Ionic\03 - With fetch\08 - Yu-Gi-Oh!\backend with no DB\Backend.Validation\obj\Debug\net5.0\Backend.Validation.AssemblyInfoInputs.cache
+u:\_Tananyag\Ionic\03 - With fetch\08 - Yu-Gi-Oh!\backend with no DB\Backend.Validation\obj\Debug\net5.0\Backend.Validation.AssemblyInfo.cs
+u:\_Tananyag\Ionic\03 - With fetch\08 - Yu-Gi-Oh!\backend with no DB\Backend.Validation\obj\Debug\net5.0\Backend.Validation.csproj.CoreCompileInputs.cache
+u:\_Tananyag\Ionic\03 - With fetch\08 - Yu-Gi-Oh!\backend with no DB\Backend.Validation\bin\Debug\net5.0\Backend.Validation.deps.json
+u:\_Tananyag\Ionic\03 - With fetch\08 - Yu-Gi-Oh!\backend with no DB\Backend.Validation\bin\Debug\net5.0\Backend.Validation.dll
+u:\_Tananyag\Ionic\03 - With fetch\08 - Yu-Gi-Oh!\backend with no DB\Backend.Validation\bin\Debug\net5.0\ref\Backend.Validation.dll
+u:\_Tananyag\Ionic\03 - With fetch\08 - Yu-Gi-Oh!\backend with no DB\Backend.Validation\bin\Debug\net5.0\Backend.Validation.pdb
+u:\_Tananyag\Ionic\03 - With fetch\08 - Yu-Gi-Oh!\backend with no DB\Backend.Validation\bin\Debug\net5.0\Backend.Core.dll
+u:\_Tananyag\Ionic\03 - With fetch\08 - Yu-Gi-Oh!\backend with no DB\Backend.Validation\bin\Debug\net5.0\Backend.Core.pdb
+u:\_Tananyag\Ionic\03 - With fetch\08 - Yu-Gi-Oh!\backend with no DB\Backend.Validation\obj\Debug\net5.0\Backend.Validation.csproj.AssemblyReference.cache
+u:\_Tananyag\Ionic\03 - With fetch\08 - Yu-Gi-Oh!\backend with no DB\Backend.Validation\obj\Debug\net5.0\Backend.Validation.csproj.CopyComplete
+u:\_Tananyag\Ionic\03 - With fetch\08 - Yu-Gi-Oh!\backend with no DB\Backend.Validation\obj\Debug\net5.0\Backend.Validation.dll
+u:\_Tananyag\Ionic\03 - With fetch\08 - Yu-Gi-Oh!\backend with no DB\Backend.Validation\obj\Debug\net5.0\ref\Backend.Validation.dll
+u:\_Tananyag\Ionic\03 - With fetch\08 - Yu-Gi-Oh!\backend with no DB\Backend.Validation\obj\Debug\net5.0\Backend.Validation.pdb
+e:\Desktop\01 - movies\backend\Backend.Validation\bin\Debug\net5.0\Backend.Validation.deps.json
+e:\Desktop\01 - movies\backend\Backend.Validation\bin\Debug\net5.0\Backend.Validation.dll
+e:\Desktop\01 - movies\backend\Backend.Validation\bin\Debug\net5.0\ref\Backend.Validation.dll
+e:\Desktop\01 - movies\backend\Backend.Validation\bin\Debug\net5.0\Backend.Validation.pdb
+e:\Desktop\01 - movies\backend\Backend.Validation\bin\Debug\net5.0\Backend.Core.dll
+e:\Desktop\01 - movies\backend\Backend.Validation\bin\Debug\net5.0\Backend.Core.pdb
+e:\Desktop\01 - movies\backend\Backend.Validation\obj\Debug\net5.0\Backend.Validation.csproj.AssemblyReference.cache
+e:\Desktop\01 - movies\backend\Backend.Validation\obj\Debug\net5.0\Backend.Validation.GeneratedMSBuildEditorConfig.editorconfig
+e:\Desktop\01 - movies\backend\Backend.Validation\obj\Debug\net5.0\Backend.Validation.AssemblyInfoInputs.cache
+e:\Desktop\01 - movies\backend\Backend.Validation\obj\Debug\net5.0\Backend.Validation.AssemblyInfo.cs
+e:\Desktop\01 - movies\backend\Backend.Validation\obj\Debug\net5.0\Backend.Validation.csproj.CoreCompileInputs.cache
+e:\Desktop\01 - movies\backend\Backend.Validation\obj\Debug\net5.0\Backend.Validation.csproj.CopyComplete
+e:\Desktop\01 - movies\backend\Backend.Validation\obj\Debug\net5.0\Backend.Validation.dll
+e:\Desktop\01 - movies\backend\Backend.Validation\obj\Debug\net5.0\ref\Backend.Validation.dll
+e:\Desktop\01 - movies\backend\Backend.Validation\obj\Debug\net5.0\Backend.Validation.pdb
+e:\Desktop\09 -  amazons of volleyball\backend\Backend.Validation\bin\Debug\net5.0\Backend.Validation.deps.json
+e:\Desktop\09 -  amazons of volleyball\backend\Backend.Validation\bin\Debug\net5.0\Backend.Validation.dll
+e:\Desktop\09 -  amazons of volleyball\backend\Backend.Validation\bin\Debug\net5.0\ref\Backend.Validation.dll
+e:\Desktop\09 -  amazons of volleyball\backend\Backend.Validation\bin\Debug\net5.0\Backend.Validation.pdb
+e:\Desktop\09 -  amazons of volleyball\backend\Backend.Validation\bin\Debug\net5.0\Backend.Core.dll
+e:\Desktop\09 -  amazons of volleyball\backend\Backend.Validation\bin\Debug\net5.0\Backend.Core.pdb
+e:\Desktop\09 -  amazons of volleyball\backend\Backend.Validation\obj\Debug\net5.0\Backend.Validation.csproj.AssemblyReference.cache
+e:\Desktop\09 -  amazons of volleyball\backend\Backend.Validation\obj\Debug\net5.0\Backend.Validation.GeneratedMSBuildEditorConfig.editorconfig
+e:\Desktop\09 -  amazons of volleyball\backend\Backend.Validation\obj\Debug\net5.0\Backend.Validation.AssemblyInfoInputs.cache
+e:\Desktop\09 -  amazons of volleyball\backend\Backend.Validation\obj\Debug\net5.0\Backend.Validation.AssemblyInfo.cs
+e:\Desktop\09 -  amazons of volleyball\backend\Backend.Validation\obj\Debug\net5.0\Backend.Validation.csproj.CoreCompileInputs.cache
+e:\Desktop\09 -  amazons of volleyball\backend\Backend.Validation\obj\Debug\net5.0\Backend.Validation.csproj.CopyComplete
+e:\Desktop\09 -  amazons of volleyball\backend\Backend.Validation\obj\Debug\net5.0\Backend.Validation.dll
+e:\Desktop\09 -  amazons of volleyball\backend\Backend.Validation\obj\Debug\net5.0\ref\Backend.Validation.dll
+e:\Desktop\09 -  amazons of volleyball\backend\Backend.Validation\obj\Debug\net5.0\Backend.Validation.pdb
+g:\_Tananyag\Ionic\03 - With fetch\09 - Amazons of volleyball\backend\Backend.Validation\bin\Debug\net5.0\Backend.Validation.deps.json
+g:\_Tananyag\Ionic\03 - With fetch\09 - Amazons of volleyball\backend\Backend.Validation\bin\Debug\net5.0\Backend.Validation.dll
+g:\_Tananyag\Ionic\03 - With fetch\09 - Amazons of volleyball\backend\Backend.Validation\bin\Debug\net5.0\ref\Backend.Validation.dll
+g:\_Tananyag\Ionic\03 - With fetch\09 - Amazons of volleyball\backend\Backend.Validation\bin\Debug\net5.0\Backend.Validation.pdb
+g:\_Tananyag\Ionic\03 - With fetch\09 - Amazons of volleyball\backend\Backend.Validation\bin\Debug\net5.0\Backend.Core.dll
+g:\_Tananyag\Ionic\03 - With fetch\09 - Amazons of volleyball\backend\Backend.Validation\bin\Debug\net5.0\Backend.Core.pdb
+g:\_Tananyag\Ionic\03 - With fetch\09 - Amazons of volleyball\backend\Backend.Validation\obj\Debug\net5.0\Backend.Validation.csproj.AssemblyReference.cache
+g:\_Tananyag\Ionic\03 - With fetch\09 - Amazons of volleyball\backend\Backend.Validation\obj\Debug\net5.0\Backend.Validation.GeneratedMSBuildEditorConfig.editorconfig
+g:\_Tananyag\Ionic\03 - With fetch\09 - Amazons of volleyball\backend\Backend.Validation\obj\Debug\net5.0\Backend.Validation.AssemblyInfoInputs.cache
+g:\_Tananyag\Ionic\03 - With fetch\09 - Amazons of volleyball\backend\Backend.Validation\obj\Debug\net5.0\Backend.Validation.AssemblyInfo.cs
+g:\_Tananyag\Ionic\03 - With fetch\09 - Amazons of volleyball\backend\Backend.Validation\obj\Debug\net5.0\Backend.Validation.csproj.CoreCompileInputs.cache
+g:\_Tananyag\Ionic\03 - With fetch\09 - Amazons of volleyball\backend\Backend.Validation\obj\Debug\net5.0\Backend.Validation.csproj.CopyComplete
+g:\_Tananyag\Ionic\03 - With fetch\09 - Amazons of volleyball\backend\Backend.Validation\obj\Debug\net5.0\Backend.Validation.dll
+g:\_Tananyag\Ionic\03 - With fetch\09 - Amazons of volleyball\backend\Backend.Validation\obj\Debug\net5.0\ref\Backend.Validation.dll
+g:\_Tananyag\Ionic\03 - With fetch\09 - Amazons of volleyball\backend\Backend.Validation\obj\Debug\net5.0\Backend.Validation.pdb
+C:\Users\vastag.atila\Desktop\11 - Balaton atevezes\backend\Backend.Validation\bin\Debug\net5.0\Backend.Validation.deps.json
+C:\Users\vastag.atila\Desktop\11 - Balaton atevezes\backend\Backend.Validation\bin\Debug\net5.0\Backend.Validation.dll
+C:\Users\vastag.atila\Desktop\11 - Balaton atevezes\backend\Backend.Validation\bin\Debug\net5.0\ref\Backend.Validation.dll
+C:\Users\vastag.atila\Desktop\11 - Balaton atevezes\backend\Backend.Validation\bin\Debug\net5.0\Backend.Validation.pdb
+C:\Users\vastag.atila\Desktop\11 - Balaton atevezes\backend\Backend.Validation\bin\Debug\net5.0\Backend.Core.dll
+C:\Users\vastag.atila\Desktop\11 - Balaton atevezes\backend\Backend.Validation\bin\Debug\net5.0\Backend.Core.pdb
+C:\Users\vastag.atila\Desktop\11 - Balaton atevezes\backend\Backend.Validation\obj\Debug\net5.0\Backend.Validation.csproj.AssemblyReference.cache
+C:\Users\vastag.atila\Desktop\11 - Balaton atevezes\backend\Backend.Validation\obj\Debug\net5.0\Backend.Validation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vastag.atila\Desktop\11 - Balaton atevezes\backend\Backend.Validation\obj\Debug\net5.0\Backend.Validation.AssemblyInfoInputs.cache
+C:\Users\vastag.atila\Desktop\11 - Balaton atevezes\backend\Backend.Validation\obj\Debug\net5.0\Backend.Validation.AssemblyInfo.cs
+C:\Users\vastag.atila\Desktop\11 - Balaton atevezes\backend\Backend.Validation\obj\Debug\net5.0\Backend.Validation.csproj.CoreCompileInputs.cache
+C:\Users\vastag.atila\Desktop\11 - Balaton atevezes\backend\Backend.Validation\obj\Debug\net5.0\Backend.Validation.csproj.CopyComplete
+C:\Users\vastag.atila\Desktop\11 - Balaton atevezes\backend\Backend.Validation\obj\Debug\net5.0\Backend.Validation.dll
+C:\Users\vastag.atila\Desktop\11 - Balaton atevezes\backend\Backend.Validation\obj\Debug\net5.0\ref\Backend.Validation.dll
+C:\Users\vastag.atila\Desktop\11 - Balaton atevezes\backend\Backend.Validation\obj\Debug\net5.0\Backend.Validation.pdb
+D:\Desktop\11 - Balaton atevezes\backend\Backend.Validation\bin\Debug\net5.0\Backend.Validation.deps.json
+D:\Desktop\11 - Balaton atevezes\backend\Backend.Validation\bin\Debug\net5.0\Backend.Validation.dll
+D:\Desktop\11 - Balaton atevezes\backend\Backend.Validation\bin\Debug\net5.0\ref\Backend.Validation.dll
+D:\Desktop\11 - Balaton atevezes\backend\Backend.Validation\bin\Debug\net5.0\Backend.Validation.pdb
+D:\Desktop\11 - Balaton atevezes\backend\Backend.Validation\bin\Debug\net5.0\Backend.Core.dll
+D:\Desktop\11 - Balaton atevezes\backend\Backend.Validation\bin\Debug\net5.0\Backend.Core.pdb
+D:\Desktop\11 - Balaton atevezes\backend\Backend.Validation\obj\Debug\net5.0\Backend.Validation.csproj.AssemblyReference.cache
+D:\Desktop\11 - Balaton atevezes\backend\Backend.Validation\obj\Debug\net5.0\Backend.Validation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\11 - Balaton atevezes\backend\Backend.Validation\obj\Debug\net5.0\Backend.Validation.AssemblyInfoInputs.cache
+D:\Desktop\11 - Balaton atevezes\backend\Backend.Validation\obj\Debug\net5.0\Backend.Validation.AssemblyInfo.cs
+D:\Desktop\11 - Balaton atevezes\backend\Backend.Validation\obj\Debug\net5.0\Backend.Validation.csproj.CoreCompileInputs.cache
+D:\Desktop\11 - Balaton atevezes\backend\Backend.Validation\obj\Debug\net5.0\Backend.Validation.csproj.CopyComplete
+D:\Desktop\11 - Balaton atevezes\backend\Backend.Validation\obj\Debug\net5.0\Backend.Validation.dll
+D:\Desktop\11 - Balaton atevezes\backend\Backend.Validation\obj\Debug\net5.0\ref\Backend.Validation.dll
+D:\Desktop\11 - Balaton atevezes\backend\Backend.Validation\obj\Debug\net5.0\Backend.Validation.pdb
+H:\Vastag Atila\esti\project - 9\backend\Backend.Validation\bin\Debug\net5.0\Backend.Validation.deps.json
+H:\Vastag Atila\esti\project - 9\backend\Backend.Validation\bin\Debug\net5.0\Backend.Validation.dll
+H:\Vastag Atila\esti\project - 9\backend\Backend.Validation\bin\Debug\net5.0\ref\Backend.Validation.dll
+H:\Vastag Atila\esti\project - 9\backend\Backend.Validation\bin\Debug\net5.0\Backend.Validation.pdb
+H:\Vastag Atila\esti\project - 9\backend\Backend.Validation\bin\Debug\net5.0\Backend.Core.dll
+H:\Vastag Atila\esti\project - 9\backend\Backend.Validation\bin\Debug\net5.0\Backend.Core.pdb
+H:\Vastag Atila\esti\project - 9\backend\Backend.Validation\obj\Debug\net5.0\Backend.Validation.csprojAssemblyReference.cache
+H:\Vastag Atila\esti\project - 9\backend\Backend.Validation\obj\Debug\net5.0\Backend.Validation.GeneratedMSBuildEditorConfig.editorconfig
+H:\Vastag Atila\esti\project - 9\backend\Backend.Validation\obj\Debug\net5.0\Backend.Validation.AssemblyInfoInputs.cache
+H:\Vastag Atila\esti\project - 9\backend\Backend.Validation\obj\Debug\net5.0\Backend.Validation.AssemblyInfo.cs
+H:\Vastag Atila\esti\project - 9\backend\Backend.Validation\obj\Debug\net5.0\Backend.Validation.csproj.CoreCompileInputs.cache
+H:\Vastag Atila\esti\project - 9\backend\Backend.Validation\obj\Debug\net5.0\Backend.Validation.csproj.CopyComplete
+H:\Vastag Atila\esti\project - 9\backend\Backend.Validation\obj\Debug\net5.0\Backend.Validation.dll
+H:\Vastag Atila\esti\project - 9\backend\Backend.Validation\obj\Debug\net5.0\ref\Backend.Validation.dll
+H:\Vastag Atila\esti\project - 9\backend\Backend.Validation\obj\Debug\net5.0\Backend.Validation.pdb
+C:\Users\sze0balnor\Desktop\mobile\project  - 9\backend\Backend.Validation\bin\Debug\net5.0\Backend.Validation.deps.json
+C:\Users\sze0balnor\Desktop\mobile\project  - 9\backend\Backend.Validation\bin\Debug\net5.0\Backend.Validation.dll
+C:\Users\sze0balnor\Desktop\mobile\project  - 9\backend\Backend.Validation\bin\Debug\net5.0\ref\Backend.Validation.dll
+C:\Users\sze0balnor\Desktop\mobile\project  - 9\backend\Backend.Validation\bin\Debug\net5.0\Backend.Validation.pdb
+C:\Users\sze0balnor\Desktop\mobile\project  - 9\backend\Backend.Validation\bin\Debug\net5.0\Backend.Core.dll
+C:\Users\sze0balnor\Desktop\mobile\project  - 9\backend\Backend.Validation\bin\Debug\net5.0\Backend.Core.pdb
+C:\Users\sze0balnor\Desktop\mobile\project  - 9\backend\Backend.Validation\obj\Debug\net5.0\Backend.Validation.csprojAssemblyReference.cache
+C:\Users\sze0balnor\Desktop\mobile\project  - 9\backend\Backend.Validation\obj\Debug\net5.0\Backend.Validation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sze0balnor\Desktop\mobile\project  - 9\backend\Backend.Validation\obj\Debug\net5.0\Backend.Validation.AssemblyInfoInputs.cache
+C:\Users\sze0balnor\Desktop\mobile\project  - 9\backend\Backend.Validation\obj\Debug\net5.0\Backend.Validation.AssemblyInfo.cs
+C:\Users\sze0balnor\Desktop\mobile\project  - 9\backend\Backend.Validation\obj\Debug\net5.0\Backend.Validation.csproj.CoreCompileInputs.cache
+C:\Users\sze0balnor\Desktop\mobile\project  - 9\backend\Backend.Validation\obj\Debug\net5.0\Backend.Validation.csproj.CopyComplete
+C:\Users\sze0balnor\Desktop\mobile\project  - 9\backend\Backend.Validation\obj\Debug\net5.0\Backend.Validation.dll
+C:\Users\sze0balnor\Desktop\mobile\project  - 9\backend\Backend.Validation\obj\Debug\net5.0\ref\Backend.Validation.dll
+C:\Users\sze0balnor\Desktop\mobile\project  - 9\backend\Backend.Validation\obj\Debug\net5.0\Backend.Validation.pdb
